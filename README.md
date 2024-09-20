@@ -1,5 +1,8 @@
 # alef
 
+Версия npm 8.15.0
+Версия node v16.17.0
+
 ## Project setup
 ```
 npm install
